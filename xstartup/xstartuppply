@@ -1,0 +1,4 @@
+#!/bin/bash
+xrdb $HOME/.Xresources
+startxfce4 &
+$HOME/miniforge3/envs/jup/bin/panoply

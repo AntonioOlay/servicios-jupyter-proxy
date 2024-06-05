@@ -1,0 +1,4 @@
+#!/bin/bash
+xrdb /home/amyserver/.Xresources
+startxfce4 &
+

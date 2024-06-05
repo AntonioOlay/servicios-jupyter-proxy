@@ -1,0 +1,4 @@
+#!/bin/bash
+xrdb $HOME/.Xresources
+startxfce4 &
+exec $HOME/VAPOR3-3.8.1-Linux/bin/vapor
